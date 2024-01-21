@@ -12,4 +12,6 @@
 6. Fill out another Google Form with verification with Government ID proof.
 7. After verification get the Offer Letter.
 
+<center> <h2 style= "color:green"> Certificates </h2></center>
+
 ![participation](https://github.com/mohammadwasiq0/Innomatics-Research-Labs-January-2024-Internship/blob/main/Participation%20Letter.png)
